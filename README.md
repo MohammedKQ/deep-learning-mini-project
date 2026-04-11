@@ -33,7 +33,7 @@ This project was developed as part of a team.
 Each member implemented their own approach using the same dataset.
 
 Team members:
-* Abdulmajeed Alshehri
+* [Abdulmajeed Alshehri](https://www.linkedin.com/in/a-m-alshehri/)
 * Mohammed Khalid
 * Yasir Aladwani
 * Fahad Alghofaili
